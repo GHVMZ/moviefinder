@@ -1,4 +1,5 @@
-![Printscreen](https://anonmgur.com/up/e93f718f33f5126f9d0f0fe507ac9880.png)
+![Printscreen](https://raw.githubusercontent.com/GHVMZ/moviefinder/master/thumb.png)
+[Click here for full printscreen](https://raw.githubusercontent.com/GHVMZ/moviefinder/master/print.png)
 
 # Moviefinder
 Movie Finder is a project created by a group of student at the University of Gothenburg in the Software Engineering and Management program.
